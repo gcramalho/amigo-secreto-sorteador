@@ -1,4 +1,5 @@
-# Sorteio de Amigo Secreto Projeto de Sorteio de Amigo Secreto desenvolvido para práticas de JavaScript. Esta aplicação permite aos usuários inserir os nomes de amigos em uma lista e, em seguida, realizar um sorteio aleatório para determinar quem será o "amigo secreto".
+# Projeto de Sorteio de Amigo Secreto desenvolvido para práticas de JavaScript. 
+Esta aplicação permite aos usuários inserir os nomes de amigos em uma lista e, em seguida, realizar um sorteio aleatório para determinar quem será o "amigo secreto".
 
 ## Funcionalidades 
 - **Adicionar Nomes**: Os usuários podem adicionar nomes de amigos. 
