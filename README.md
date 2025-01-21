@@ -1,5 +1,5 @@
-# Projeto de Sorteio de Amigo Secreto desenvolvido para práticas de JavaScript. 
-Esta aplicação permite aos usuários inserir os nomes de amigos em uma lista e, em seguida, realizar um sorteio aleatório para determinar quem será o "amigo secreto".
+# Projeto Sorteador de Amigo Secreto desenvolvido para práticas de JavaScript. 
+Esta aplicação permite aos usuários inserirem nomes de amigos em uma lista e, em seguida, realizar um sorteio aleatório para determinar quem será o "amigo secreto".
 
 ## Funcionalidades 
 - **Adicionar Nomes**: Os usuários podem adicionar nomes de amigos. 
@@ -7,6 +7,11 @@ Esta aplicação permite aos usuários inserir os nomes de amigos em uma lista e
 - **Visualizar a Lista**: Exibe os nomes adicionados na tela.
 - **Sorteio Aleatório**: Realiza um sorteio aleatório dentre os nomes inseridos.
 - **Limpar Lista**: Permite excluir todos os nomes adicionados.
+
+## Tecnologias Utilizadas 
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+- HTML ![HTML](https://img.shields.io/badge/HTML-red)
+- CSS ![CSS](https://img.shields.io/badge/CSS-blue)
 
 ## Pré-requisitos 
 - Navegador web atualizado (Chrome, Firefox, etc.)
