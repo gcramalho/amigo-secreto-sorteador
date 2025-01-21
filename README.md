@@ -26,10 +26,10 @@ Esta aplicação permite aos usuários inserirem nomes de amigos em uma lista e,
 
 sorteio-amigo-secreto/ <br>
   |-- assets/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Imagens e outros arquivos estáticos <br>
-  |-- style.css     # Arquivo de estilo CSS <br>
-  |-- app.js        # Arquivo de lógica JavaScript <br>
-  |-- index.html    # Arquivo principal HTML <br>
-  |-- README.md     # Este arquivo README
+  |-- style.css&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Arquivo de estilo CSS <br>
+  |-- app.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Arquivo de lógica JavaScript <br>
+  |-- index.html&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Arquivo principal HTML <br>
+  |-- README.md&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Este arquivo README
 
   ## Licença 
   Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
