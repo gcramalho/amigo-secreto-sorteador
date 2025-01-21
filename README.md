@@ -25,7 +25,7 @@ Esta aplicação permite aos usuários inserirem nomes de amigos em uma lista e,
 ## Estrutura do Projeto
 
 sorteio-amigo-secreto/ <br>
-  |-- assets/       # Imagens e outros arquivos estáticos <br>
+  |-- assets/&nbsp;&nbsp;&nbsp;# Imagens e outros arquivos estáticos <br>
   |-- style.css     # Arquivo de estilo CSS <br>
   |-- app.js        # Arquivo de lógica JavaScript <br>
   |-- index.html    # Arquivo principal HTML <br>
